@@ -52,7 +52,7 @@
 
 <footer>
 <a href="http://validator.w3.org/check?uri=referer"> <img src ="images/valid_html5/valid_html5.gif" alt = "html5"></a>
-<a href="http://jigsaw.w3.org/css-validator/check/referer"> <img src ="http://students.cpcc.edu/~snur0000/web250/images/valid_html5/vcss-blue.gif" alt= "css"></a>
+<a href="http://jigsaw.w3.org/css-validator/check/referer"> <img src ="images/valid_html5/vcss-blue.gif" alt= "css"></a>
 <p>
 
 <?php
