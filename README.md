@@ -1,2 +1,2 @@
 # web250-works
-live: https://dashboard.heroku.com/apps/web250
+live: https://web250.herokuapp.com/
